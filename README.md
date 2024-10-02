@@ -1,4 +1,4 @@
-## **A Very Beautiful and Stylish To-Do List
+## **A Very Beautiful and Stylish To-Do List**
 **Tech Stack:**
 * Node.js: Backend technology powering the application
 * MongoDB: NoSQL database for storing to-do items
