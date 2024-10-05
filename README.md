@@ -6,7 +6,7 @@
 * MongoDB Compass and Atlas: Tools used for managing and deploying the MongoDB database.
 
   
-This To-Do List application allows users to organize tasks by location, making it easy to keep track of different responsibilities. Users can create dedicated lists such as a Work List for professional tasks or a School List for academic duties.
+This To-Do List application allows users to organize tasks by location, making it easy to keep track of different responsibilities. Users can create dedicated lists such as a Work List for professional tasks or a School List for academic duties.sssssssssssss
 
 
 **Key Features:**
